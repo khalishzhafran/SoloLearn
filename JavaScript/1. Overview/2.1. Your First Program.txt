@@ -1,0 +1,2 @@
+Q: Write a program to print "JS is fun". Note that the sentence starts with capital letters.
+A: console.log("JS is fun")

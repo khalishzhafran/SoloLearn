@@ -1,0 +1,8 @@
+Q: What tag do you need to use to enclose the JavaScript code?
+A: script
+
+Q: Output "Hello!" in the browser
+A: document.write
+
+Q: Complete the code to output "Hi!" to the console
+A: console.log
