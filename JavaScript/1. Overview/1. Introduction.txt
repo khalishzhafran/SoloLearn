@@ -1,3 +1,2 @@
 Q: Which is the correct statement?
-
 A: JavaScript can be used to create interactive web elements
